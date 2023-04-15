@@ -1,0 +1,147 @@
+HTTrack3.49-2 launched on Fri, 14 Apr 2023 14:13:49 at https://dumpsterapp.mobi/
+(httrack -N100 -I0 -%I0 https://dumpsterapp.mobi/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:15:32	Error: 	"Forbidden" (403) at link https://dumpsterapp.mobi/xmlrpc.php?rsd (from https://dumpsterapp.mobi/)
+14:15:57	Warning: 	Link https://dumpsterapp.mobi/faq/ not scanned (follow robots meta tag)
+14:16:05	Warning: 	Moved Permanently for https://dumpsterapp.mobi/faq/privacy-policy/
+14:16:05	Warning: 	File has moved from https://dumpsterapp.mobi/faq/privacy-policy/ to https://www.iubenda.com/privacy-policy/64195001
+14:17:11	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=308
+14:17:11	Warning: 	File has moved from https://dumpsterapp.mobi/?p=308 to https://dumpsterapp.mobi/faq/terms-and-conditions/
+14:17:38	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=963
+14:17:38	Warning: 	File has moved from https://dumpsterapp.mobi/?p=963 to https://dumpsterapp.mobi/issues-with-apps-running-on-android/
+14:17:38	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=965
+14:17:38	Warning: 	File has moved from https://dumpsterapp.mobi/?p=965 to https://dumpsterapp.mobi/what-does-rooting-an-android-device-mean/
+14:17:38	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=934
+14:17:38	Warning: 	File has moved from https://dumpsterapp.mobi/?p=934 to https://dumpsterapp.mobi/developing-an-android-app/
+14:17:38	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=936
+14:17:38	Warning: 	File has moved from https://dumpsterapp.mobi/?p=936 to https://dumpsterapp.mobi/6-best-ways-to-backup-photos-in-2021/
+14:17:38	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=925
+14:17:38	Warning: 	File has moved from https://dumpsterapp.mobi/?p=925 to https://dumpsterapp.mobi/best-photo-editing-apps-for-android-photographers/
+14:17:38	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=928
+14:17:38	Warning: 	File has moved from https://dumpsterapp.mobi/?p=928 to https://dumpsterapp.mobi/10-most-useful-android-apps-in-everyday-life/
+14:18:42	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=916
+14:18:42	Warning: 	File has moved from https://dumpsterapp.mobi/?p=916 to https://dumpsterapp.mobi/5-ways-to-recover-deleted-photos-on-your-android-device/
+14:18:45	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=901
+14:18:45	Warning: 	File has moved from https://dumpsterapp.mobi/?p=901 to https://dumpsterapp.mobi/introducing-the-latest-dumpster-upgrade/
+14:18:54	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=569
+14:18:54	Warning: 	File has moved from https://dumpsterapp.mobi/?p=569 to https://dumpsterapp.mobi/the-most-useful-android-apps-in-everyday-life/
+14:19:04	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=576
+14:19:04	Warning: 	File has moved from https://dumpsterapp.mobi/?p=576 to https://dumpsterapp.mobi/4-ways-to-recover-deleted-photos-on-your-android-device/
+14:19:05	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=601
+14:19:05	Warning: 	File has moved from https://dumpsterapp.mobi/?p=601 to https://dumpsterapp.mobi/how-to-recover-deleted-photos-from-phone-gallery/
+14:19:05	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=549
+14:19:05	Warning: 	File has moved from https://dumpsterapp.mobi/?p=549 to https://dumpsterapp.mobi/the-fastest-way-to-find-airpods-on-android/
+14:19:10	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=960
+14:19:10	Warning: 	File has moved from https://dumpsterapp.mobi/?p=960 to https://dumpsterapp.mobi/android-vs-iphone-which-is-best-for-photography/
+14:19:13	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=502
+14:19:13	Warning: 	File has moved from https://dumpsterapp.mobi/?p=502 to https://dumpsterapp.mobi/best-android-cloud-backups-for-photos/
+14:19:13	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=499
+14:19:13	Warning: 	File has moved from https://dumpsterapp.mobi/?p=499 to https://dumpsterapp.mobi/best-android-video-editing-apps-for-tiktok-2020/
+14:19:13	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=214
+14:19:13	Warning: 	File has moved from https://dumpsterapp.mobi/?p=214 to https://dumpsterapp.mobi/how-to-backup-restore-whatsapp-messages-on-android/
+14:19:13	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=554
+14:19:13	Warning: 	File has moved from https://dumpsterapp.mobi/?p=554 to https://dumpsterapp.mobi/how-to-transfer-contacts-from-iphone-to-android/
+14:19:13	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=476
+14:19:13	Warning: 	File has moved from https://dumpsterapp.mobi/?p=476 to https://dumpsterapp.mobi/how-to-restore-a-deleted-document-on-android/
+14:19:16	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=957
+14:19:16	Warning: 	File has moved from https://dumpsterapp.mobi/?p=957 to https://dumpsterapp.mobi/featured-google-play-apps/
+14:19:16	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=508
+14:19:16	Warning: 	File has moved from https://dumpsterapp.mobi/?p=508 to https://dumpsterapp.mobi/5-phone-safety-tips-apps-for-photographers/
+14:19:16	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=373
+14:19:16	Warning: 	File has moved from https://dumpsterapp.mobi/?p=373 to https://dumpsterapp.mobi/7-easy-ways-to-block-hackers-from-your-android-phone/
+14:19:24	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=521
+14:19:24	Warning: 	File has moved from https://dumpsterapp.mobi/?p=521 to https://dumpsterapp.mobi/how-to-recover-deleted-songs-on-android/
+14:19:24	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=514
+14:19:24	Warning: 	File has moved from https://dumpsterapp.mobi/?p=514 to https://dumpsterapp.mobi/how-to-recover-deleted-apps-on-android/
+14:19:24	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=494
+14:19:24	Warning: 	File has moved from https://dumpsterapp.mobi/?p=494 to https://dumpsterapp.mobi/how-do-i-undelete-a-podcast-recording/
+14:19:24	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=482
+14:19:24	Warning: 	File has moved from https://dumpsterapp.mobi/?p=482 to https://dumpsterapp.mobi/how-to-undelete-an-audio-file-on-android/
+14:19:24	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=470
+14:19:24	Warning: 	File has moved from https://dumpsterapp.mobi/?p=470 to https://dumpsterapp.mobi/best-trusted-free-android-photo-editing-apps/
+14:19:24	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=542
+14:19:24	Warning: 	File has moved from https://dumpsterapp.mobi/?p=542 to https://dumpsterapp.mobi/how-to-transfer-photos-from-your-android-phone-to-pc/
+14:19:24	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=420
+14:19:24	Warning: 	File has moved from https://dumpsterapp.mobi/?p=420 to https://dumpsterapp.mobi/faq/how-does-deep-scan-recovery-work/
+14:20:15	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=385
+14:20:15	Warning: 	File has moved from https://dumpsterapp.mobi/?p=385 to https://dumpsterapp.mobi/faq/how-does-cloud-storage-work/
+14:20:15	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=387
+14:20:15	Warning: 	File has moved from https://dumpsterapp.mobi/?p=387 to https://dumpsterapp.mobi/faq/what-file-types-are-supported-on-dumpster/
+14:20:15	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=467
+14:20:15	Warning: 	File has moved from https://dumpsterapp.mobi/?p=467 to https://dumpsterapp.mobi/how-to-restore-deleted-videos-using-dumpster/
+14:20:15	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=164
+14:20:15	Warning: 	File has moved from https://dumpsterapp.mobi/?p=164 to https://dumpsterapp.mobi/how-to-restore-deleted-photos-on-android/
+14:20:15	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=423
+14:20:15	Warning: 	File has moved from https://dumpsterapp.mobi/?p=423 to https://dumpsterapp.mobi/faq/benefits-of-deep-scan-recovery/
+14:20:18	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=421
+14:20:18	Warning: 	File has moved from https://dumpsterapp.mobi/?p=421 to https://dumpsterapp.mobi/faq/locating-lost-file-using-the-quick-scroll/
+14:20:18	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=284
+14:20:18	Warning: 	File has moved from https://dumpsterapp.mobi/?p=284 to https://dumpsterapp.mobi/faq/can-dumpster-retrieve-files-i-deleted-before-downloading-the-app/
+14:21:31	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=384
+14:21:31	Warning: 	File has moved from https://dumpsterapp.mobi/?p=384 to https://dumpsterapp.mobi/faq/what-is-dumpster-premium/
+14:21:56	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=1001
+14:21:56	Warning: 	File has moved from https://dumpsterapp.mobi/?p=1001 to https://dumpsterapp.mobi/faq/dumpster-wont-stay-alive-in-the-background/
+14:21:56	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=400
+14:21:56	Warning: 	File has moved from https://dumpsterapp.mobi/?p=400 to https://dumpsterapp.mobi/faq/how-can-i-change-languages/
+14:21:56	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=396
+14:21:56	Warning: 	File has moved from https://dumpsterapp.mobi/?p=396 to https://dumpsterapp.mobi/faq/what-permissions-does-dumpster-require/
+14:21:56	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=395
+14:21:56	Warning: 	File has moved from https://dumpsterapp.mobi/?p=395 to https://dumpsterapp.mobi/faq/whats-the-recycle-bin/
+14:21:56	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=382
+14:21:56	Warning: 	File has moved from https://dumpsterapp.mobi/?p=382 to https://dumpsterapp.mobi/faq/how-much-space-does-dumpster-take-up/
+14:21:56	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=381
+14:21:56	Warning: 	File has moved from https://dumpsterapp.mobi/?p=381 to https://dumpsterapp.mobi/faq/how-does-dumpster-work/
+14:22:10	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=418
+14:22:10	Warning: 	File has moved from https://dumpsterapp.mobi/?p=418 to https://dumpsterapp.mobi/faq/can-i-restore-a-file-i-deleted-before-i-download-dumpster/
+14:22:10	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=399
+14:22:10	Warning: 	File has moved from https://dumpsterapp.mobi/?p=399 to https://dumpsterapp.mobi/faq/what-files-does-dumpster-store/
+14:22:10	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=398
+14:22:10	Warning: 	File has moved from https://dumpsterapp.mobi/?p=398 to https://dumpsterapp.mobi/faq/deleting-files-from-dumpster/
+14:22:10	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=397
+14:22:10	Warning: 	File has moved from https://dumpsterapp.mobi/?p=397 to https://dumpsterapp.mobi/faq/can-i-customize-which-file-types-dumpster-will-save/
+14:22:10	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=394
+14:22:10	Warning: 	File has moved from https://dumpsterapp.mobi/?p=394 to https://dumpsterapp.mobi/faq/i-restored-a-file-and-i-cant-figure-out-where-it-went/
+14:22:10	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=393
+14:22:10	Warning: 	File has moved from https://dumpsterapp.mobi/?p=393 to https://dumpsterapp.mobi/faq/whats-the-fastest-way-to-find-an-old-file/
+14:22:10	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=392
+14:22:10	Warning: 	File has moved from https://dumpsterapp.mobi/?p=392 to https://dumpsterapp.mobi/faq/can-i-share-a-deleted-file-without-restoring-it/
+14:22:10	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=311
+14:22:10	Warning: 	File has moved from https://dumpsterapp.mobi/?p=311 to https://dumpsterapp.mobi/faq/help-i-dont-see-my-recently-deleted-files-in-dumpster/
+14:22:10	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=435
+14:22:10	Warning: 	File has moved from https://dumpsterapp.mobi/?p=435 to https://dumpsterapp.mobi/faq/dumpster-refund-policy/
+14:22:10	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=390
+14:22:10	Warning: 	File has moved from https://dumpsterapp.mobi/?p=390 to https://dumpsterapp.mobi/faq/how-much-space-do-deleted-files-take-up-on-my-device/
+14:22:13	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=380
+14:22:13	Warning: 	File has moved from https://dumpsterapp.mobi/?p=380 to https://dumpsterapp.mobi/faq/who-should-use-dumpster/
+14:22:13	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=379
+14:22:13	Warning: 	File has moved from https://dumpsterapp.mobi/?p=379 to https://dumpsterapp.mobi/faq/what-languages-is-dumpster-available-in/
+14:22:13	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=378
+14:22:13	Warning: 	File has moved from https://dumpsterapp.mobi/?p=378 to https://dumpsterapp.mobi/faq/do-any-apps-interfere-with-dumpster/
+14:22:13	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=318
+14:22:13	Warning: 	File has moved from https://dumpsterapp.mobi/?p=318 to https://dumpsterapp.mobi/faq/i-upgraded-my-device-how-can-i-transfer-my-dumpster-content-to-the-new-device/
+14:22:13	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=317
+14:22:13	Warning: 	File has moved from https://dumpsterapp.mobi/?p=317 to https://dumpsterapp.mobi/faq/theres-something-wrong-how-can-i-get-help/
+14:22:13	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=316
+14:22:13	Warning: 	File has moved from https://dumpsterapp.mobi/?p=316 to https://dumpsterapp.mobi/faq/which-devices-is-dumpster-compatible-with/
+14:22:19	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=391
+14:22:19	Warning: 	File has moved from https://dumpsterapp.mobi/?p=391 to https://dumpsterapp.mobi/faq/why-cant-i-restore-my-file/
+14:22:19	Warning: 	Moved Permanently for https://dumpsterapp.mobi/faq/id-like-to-report-a-problem-how-do-i-get-in-touch-with-customer-support/
+14:22:19	Warning: 	File has moved from https://dumpsterapp.mobi/faq/id-like-to-report-a-problem-how-do-i-get-in-touch-with-customer-support/ to https://dumpsterapp.mobi/faq/theres-something-wrong-how-can-i-get-help/
+14:22:19	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=389
+14:22:19	Warning: 	File has moved from https://dumpsterapp.mobi/?p=389 to https://dumpsterapp.mobi/faq/are-dumpster-files-stored-in-a-compressed-format/
+14:22:19	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=388
+14:22:19	Warning: 	File has moved from https://dumpsterapp.mobi/?p=388 to https://dumpsterapp.mobi/faq/how-much-space-do-dumpster-files-take-up/
+14:22:19	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=285
+14:22:19	Warning: 	File has moved from https://dumpsterapp.mobi/?p=285 to https://dumpsterapp.mobi/faq/can-i-remove-the-persistent-protection-is-on-notification/
+14:22:19	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=315
+14:22:19	Warning: 	File has moved from https://dumpsterapp.mobi/?p=315 to https://dumpsterapp.mobi/faq/how-do-i-restore-a-file-in-dumpster/
+14:22:19	Warning: 	Moved Permanently for https://dumpsterapp.mobi/?p=314
+14:22:19	Warning: 	File has moved from https://dumpsterapp.mobi/?p=314 to https://dumpsterapp.mobi/faq/what-happens-if-dumpster-runs-out-of-device-space/
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 30 seconds : 592 links scanned, 523 files written (37142028 bytes overall) [21832487 bytes received at 42808 bytes/sec], 34583832 bytes transferred using HTTP compression in 460 files, ratio 53%, 27.5 requests per connection
+(1 errors, 135 warnings, 0 messages)
